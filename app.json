@@ -1,0 +1,12 @@
+{
+  "name": "upskill",
+  "displayName": "upskill",
+  "expo": {
+    "name": "upskill",
+    "slug": "upskill",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
